@@ -14,8 +14,8 @@ int restar(int a, int b) {
 
 /* ── multiplicar — implementar en feature/mi-funcion ─────────────────────── */
 
-int multiplicar(int a, int b) {
-    return a*b;
+int multiplicar(int a, int c) { 
+    return a * c; 
 }
 
 /* ── esPar ────────────────────────────────────────────────────────────────── */
