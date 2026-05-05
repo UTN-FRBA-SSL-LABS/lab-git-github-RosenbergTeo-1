@@ -287,9 +287,8 @@ c) Para que el historial de commits sea más corto y lineal
 d) Porque GitHub Classroom lo requiere para la corrección automática
 
 ```
-RESPUESTA_P1=
+RESPUESTA_P1=b
 ```
-
 ---
 
 ## Parte II — Colaboración con un compañero/a
@@ -320,6 +319,7 @@ El **owner** hace esto en GitHub:
 El **compañero** hace estos pasos:
 
 ```bash
+
 git clone <URL-del-repo-del-owner>
 cd <nombre-del-repo>
 git switch -c sugerencia/<tu-nombre>
@@ -414,7 +414,7 @@ c) Hacer un rebase interactivo para reescribir el historial antes de responder a
 d) Pedirle al owner que mergee igual y hacer el fix en un PR separado
 
 ```
-RESPUESTA_P2=
+RESPUESTA_P2=b
 ```
 
 ---
