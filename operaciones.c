@@ -21,5 +21,5 @@ int multiplicar(int a, int c) {
 /* ── esPar ────────────────────────────────────────────────────────────────── */
 
 int esPar(int n) {
-    return (n % 2) == 0; /* version main CAMBIO */
+    return (n & 1) == 0; /* version conflicto */
 }
